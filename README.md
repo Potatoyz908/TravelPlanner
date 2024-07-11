@@ -1,6 +1,6 @@
 # TravelPlanner API
 
-Backend do Planner, uma aplicação de gerenciamento de viagens.
+Backend do TravelPlanner, uma aplicação de gerenciamento de viagens.
 
 ## Ferramentas
 
