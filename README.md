@@ -1,4 +1,4 @@
-# Planner App API
+# TravelPlanner API
 
 Backend do Planner, uma aplicação de gerenciamento de viagens.
 
